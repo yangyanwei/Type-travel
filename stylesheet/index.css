@@ -1,0 +1,116 @@
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #68217A;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    overflow: hidden;
+}
+.bg{
+    background-image: url("../images/d.jpg");
+    background-size: cover;
+}
+.title{
+    font-size: 50px;
+    margin-top: 70px;
+    color: coral;
+    text-align: center;
+}
+#texiao{
+    width: 250px;
+    height: 65px;
+    margin: 0 auto;
+    transition: all 2s ease;
+}
+.container{
+    width: 1240px;
+    margin: 30px auto;
+    /*border: 3px solid black;*/
+    position: relative;
+}
+
+.caozuo{
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 2em;
+}
+#hezi{
+    width:827px;
+    height: 327px;
+    border: 1px solid azure;
+    /*background: #757575;*/
+    /*box-shadow: 0 2px 20px #757575;*/
+    border-radius: 5px;
+    margin: 45px 260px 0;
+    position: relative;
+}
+.element{
+    width: 60px;
+    height: 45px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 12px;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 45px;
+    background: black;
+    color: white;
+    font-size: 2em;
+    box-shadow: 0 2px 5px black;
+    transition: all 2s ease;
+}
+#time{
+    width: 200px;
+    height: 100px;
+    background: coral;
+    border-radius: 5px;
+    position: absolute;
+    top: 111px;
+    left: 0px;
+}
+#chongzhi{
+    width: 200px;
+    height: 50px;
+    background: aquamarine;
+    line-height: 50px;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+    position: absolute;
+    top: 280px;
+    left: 0px;
+}
+#defen{
+    width: 200px;
+    height: 50px;
+    background: aquamarine;
+    line-height: 50px;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+    position: absolute;
+    top: 220px;
+    left: 0px;
+}
+.cty{
+    width: 100px;
+}
+
+
+
+
+
+
+
